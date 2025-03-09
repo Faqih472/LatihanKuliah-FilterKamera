@@ -1,4 +1,4 @@
-package com.abw.photo_filter_carousel
+package com.abw.photo_filter_carouse
 
 import io.flutter.embedding.android.FlutterActivity
 
