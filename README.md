@@ -8,8 +8,8 @@ SS:
 
 
 Fitur Utama
-✅ Preview Filter – Menampilkan foto dengan filter warna secara langsung.
-✅ Carousel Filter – Pilih filter dengan menggulir atau mengetuk warna yang tersedia.
-✅ Animasi Halus – Efek zoom dan transparansi pada carousel untuk pengalaman yang lebih menarik.
-✅ Responsive – Dapat berjalan di Android dan Web.
+1.  ✅ Preview Filter – Menampilkan foto dengan filter warna secara langsung.
+2.  ✅ Carousel Filter – Pilih filter dengan menggulir atau mengetuk warna yang tersedia.
+3.  ✅ Animasi Halus – Efek zoom dan transparansi pada carousel untuk pengalaman yang lebih menarik.
+4.  ✅ Responsive – Dapat berjalan di Android dan Web.
 
